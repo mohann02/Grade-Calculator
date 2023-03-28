@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    margin-top: 52px;
+    background-color: black;
+    color: white;
+
+}
+.container{
+    margin-top: 52px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+label{
+    margin-right:12px;
+}
+button{
+    margin-top:18px;
+}
+.cont1{
+    width:260px;
+    text-align: center;
+    border:1px solid black;
+    padding: 9px;
+    
+}
+h2{
+    text-align: center;
+    margin-top: 52px;
+    background-color: black;
+    color: white;
+
+}
+.res-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 12px;
+}
+
+.res-row span{
+    font-weight: bold;
+}
+button{
+    background-color: black;
+    color: white;
+}
